@@ -19,6 +19,7 @@
 - Email
 - Email-JSON
 - SQS
+- SNS
 - Application
 - Lambda
 
