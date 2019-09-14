@@ -11,6 +11,7 @@
 **NOTE:** Read FAQ section of SQS to help with exam
 
 ## SNS
+- SNS is a notification service system
 
 **Subscribers:**
 
