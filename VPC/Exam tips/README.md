@@ -2,6 +2,7 @@
 
 ## VPC Intro
 
+- VPC is Virtual Private Cloud
 - Think of a VPC as a logical data center in AWS
 - Consists of IGW(or Virtual Private Gateways), route tables, network access control lists (NACL), subnets, security groups
 - 1 subnet = 1 AZ
