@@ -12,6 +12,7 @@
 
 ## SNS
 - SNS is a notification service system
+- Allows you to send notifications simultaneously 
 
 **Subscribers:**
 
