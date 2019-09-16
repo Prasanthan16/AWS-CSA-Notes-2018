@@ -4,6 +4,7 @@
 
 ### General
 
+- S3 is simple storage service
 - S3 is object based, allows you to upload files
 - Files can be 0B up to 5TB
 - Unlimited storage
